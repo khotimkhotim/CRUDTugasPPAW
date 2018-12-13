@@ -1,0 +1,23 @@
+#footer{
+	margin-top: 30px;
+	padding: 10px;
+	color: #fff;
+	background: #FFB6C1;
+}
+
+#footer p{
+	margin-bottom: 0px;
+}
+
+/*design table 1*/
+.table1 {
+	position: center;
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+ 
+.table1, th, td {
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
